@@ -1,2 +1,2 @@
-# Ricsi0322.gihub.io
+# Ricsi0322.github.io
 Demo page
